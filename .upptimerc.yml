@@ -15,7 +15,7 @@ assignees: # Users to assign downtime issues (optional)
 skipDeleteIssues: true
 
 status-website:
-  cname: uptime.ipv4.army
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   js: "fetch('https://1.ipv4.army/api/event',{method:'POST',body:JSON.stringify({domain:'uptime.ipv4.army',name:'pageview',url:location.href,referrer:document.referrer,props:{languages:navigator.languages.join(', ')}})});"
