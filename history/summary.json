@@ -4,9 +4,9 @@
     "url": "https://ipv4.army",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.army.ico",
     "slug": "website-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 399,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-04": 0
+    }
   },
   {
     "name": "Website IPv4",
     "url": "https://ipv4.army",
     "icon": "https://icons.duckduckgo.com/ip3/ipv4.army.ico",
     "slug": "website-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 43,
     "timeMonth": 44,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-04": 0
+    }
   }
 ]
